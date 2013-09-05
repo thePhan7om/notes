@@ -1,0 +1,29 @@
+There are 27 coins and a two-pan balance. All coins has same weight except for one,
+ which is heavier than all others. All coins looks identical.
+ What is the minimum number of weighing required to certainly find out heavier coin?
+  
+ - 27 coins
+ - 2 scales
+ - 1 heavy 
+ 
+ I have an uneven number of coins
+  
+ If I left 1 coin out and weighed them 50:50 I would know which half the heavy coin was in
+ - If both piles are the same the heavy coin is the exculded one
+ - Assuming both piles are differnt weights I disguard the lighter pile, the heavier coin isnt there - weight 1
+ - This leaves me with 13 coins one of which is heavy
+ - if I remove another one at random I have 12 coins left on the scale. 
+ - I distribute these evenly 6 on each side -- weight 2
+ - as before if the are the same I removed the heavy one
+ - if the piles are different again disguard the lighter pile
+ - I know have 6 coins, there isnt an odd number to remove
+ - so i spread them evenly -- weight 3
+ - I disguard the ligher pile
+ - I have 3 coins remaining, 
+ - I remove one and spread the other 2 -- Weight 4
+ - the Heavy coin is the one I removed or one of the other 2. 
+ 
+ - Total Number of messures to find out -4
+ 
+ 
+ *Correct Answer is 3, same logic but first pile should have been 9 

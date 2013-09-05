@@ -1,0 +1,17 @@
+There are two sticks which takes one hour to burn from one end to other.
+The sticks do not burn at a constant rate i.e. some part may burn faster than others.
+ You need to measure 45 minutes by using these two sticks and a lighter.
+
+I have:
+2 Sticks
+1 Lighter
+
+Need to messure 45 min
+- Sticks do not burn constantly, impractical if I lost count 
+- may take 50 min to burn 20 % and then fast burn the rest  so cant break the sticks
+
+- Hit the sticks together at a constant rate to and count the 45 min
+0 minutes – Light stick 1 on both sides and stick 2 on one side.
+30 minutes – Stick 1 will be burnt out. Light the other end of stick 2.
+45 minutes – Stick 2 will be burnt out.
+- There for 45 minutes will have elasped

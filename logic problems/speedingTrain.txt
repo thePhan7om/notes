@@ -1,0 +1,24 @@
+Two persons are walking into a railway tunnel. Upon crossing 2/3rd of the tunnel, 
+they saw train is coming from opposite direction. 
+Each person ran for a different end of tunnel with speed of 10 km per hour. 
+Fortunately, both persons escaped from the tunnel just right time i.e.. 
+at the time train would have run through them. 
+Assuming train was running with a constant speed and both persons reacted immediately, Find out speed of train.
+
+
+-  1 tunnel of X length 
+-  2 people 2/3 X into the tunnel
+-  1 train outside the tunnel 
+-  Both ran at 10kph
+-  Both ran in oposite directions
+-  The train JUST missed both of them
+
+Before train approches:
+-  person 1 covers 1/3X at 10kph 
+-  person 2 covers 2/3X at 10kph
+-  Train enters tunnel when person 2 is 1/3X from his exit
+-  Train covers entire distance of tunnel in the same time person 2 covers 1/3
+-  Trains speed is 3X person 2 
+-  Trains speed is 30kph
+
+* Correct
