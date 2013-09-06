@@ -1,0 +1,30 @@
+There are Four people needs to cross the bridge during night. The bridge can hold the weight of two people at a time and can not be crossed without a torch.
+ Each person walk with different speed, first can cross the bridge in 1 minutes, second in 2 minutes,
+ third in 5 minutes and fourth take 10 minutes to cross the bridge. If two persons go together,
+ they walk with the speed of slower person. What is the least amount in which all four people cross the bridge.
+ - Do I only have 1 torch?
+ - Can the other side hear/see each other?
+ 
+ -  Person A crosses in 1
+ -  Person B crosses in 2
+ -  Person C crosses in 5
+ -  Person D Crosses in 10
+ -  One must carry the touch 
+ -  All 4 must cross
+ 
+ - Person D and Person 1 Over = 10 
+ - Person A back With touch= 1
+ - Person A and Person C Over = 5
+ - Person A back with torch = 1
+ - Person A and B over in 2 
+ 
+ Total Time  = 19 min
+ 
+ If 2 Torches
+ A and B go 2 min
+ C and D go 10 Min
+ Total Time 12 min
+ 
+ * Correct
+ 
+ 

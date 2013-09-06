@@ -1,0 +1,21 @@
+You have 10 Jars filled with marbles. Each marble weighs 10 gm, 
+except one Jar which contains defective marbles which weighs 9 gm. 
+Given a scale to weigh, How do you find Jar with defective marbles in just one measurement. 
+Here scale is modern day electronic scale to measure weight.
+
+Variables
+- 10 Jars of Marbles
+- 9 jars weight the same
+- 1 jar is slightly lighter
+
+-have an electic scale
+- Only allowed one messure
+
+take 1 jar from jar 1, 2 from jar 2 up to 10 from jar 10
+put all the marbles on the scale, assuming they all dont roll off 
+
+if all the marbles where the same wight it would weigh, 550g
+if the weight is 545 then jar 5 contains the lighter marbles, 
+using the difference on the scale will tell which jar is lighter
+
+*Correct

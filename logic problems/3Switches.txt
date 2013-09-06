@@ -1,0 +1,21 @@
+There are thee switches outside of a closed room to operate three different light bulb inside the room.
+ You can only go into the room once and you need to determine which switch belongs to which bulb.
+ Just to make it clear, room is perfectly locked and its not possible to determine whether lights are on from outside the room.
+ 
+ - 3 Switches outside
+ - 3 bulbs inside the room
+ - The room is locked
+ - Can only enter the room once to determine which light is connected to which switch. 
+ - Question can I go in the room with the light on?
+ 
+ - Turn on 2 Switches
+ - Wait 5 minutes
+ - Turn off 1 Switch
+ 
+ Ask to Enter the Room
+ - The light that is still on is connected to the switch in the on position
+ - touch / place hand near the other bulbs, 
+ - the one that is warm was connected to the switch you turned off
+ - the one that is cold was connected to the one you didnt touch. 
+ 
+ *Correct
